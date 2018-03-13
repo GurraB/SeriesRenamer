@@ -12,9 +12,13 @@ A python script that renames the filenames of the episodes of a tv series.
 
 .
 |--Series 1
+
 |   |--Season 1
+
 |       |--S01E01.mp4
+
 |       |--S01E02.mp4
+
 |       |--S01EXX.mp4
 |   |--Season 2
 |       |--S02E01.mp4
